@@ -10,7 +10,7 @@
             <a href="/">
                 <strong>{{ env('APP_NAME') }}</strong>
             </a> 
-            <a href="https://github.com/CrazyBoyM/WebStack-Laravel" target="_blank">
+            <a href="https://github.com/Lusky-Git" target="_blank">
                 <strong>Github</strong>
             </a>
             <span>{{ config('icp_record') }}</span>

@@ -28,10 +28,6 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <blockquote>
-                                        <p>这是一个开源的网址导航网站项目，您可以拿来制作自己的网址导航，也可以做与导航无关的网站。</p>
-                                        </br>
-                                        <p>网站前台静态页面采用 <a href="http://viggoz.com/" target="_blank">viggoz</a> 的 <a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStack</a> 项目源码,框架采用hui-ho的WebStack-Laravel。</p>
-                                        <p>目前CrazyBoyM参与完善，如果对本项目有任何建议都可以发起 issue。</p>
                                     </blockquote>
                                 </div>
                             </div>
